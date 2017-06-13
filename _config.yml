@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Antony Jucan
+tagline:             'A Github Hosted Website'
+description:         'This website contains my life accomplishments and Interests.'
+url:                 https://caligula8.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Antony Jucan
+  url:               https://twitter.com/mdo
+  email:             ajucan8@gmail.com
+
+# Custom vars
+version:             1.0.0
